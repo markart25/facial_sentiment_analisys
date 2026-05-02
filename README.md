@@ -121,4 +121,4 @@ Trained with:
 
 ## License
 
-Add your preferred license here (e.g. MIT).
+MIT
